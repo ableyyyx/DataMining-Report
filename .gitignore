@@ -1,0 +1,4 @@
+*.pdf
+*.pt
+.vector_cache
+.DS_Store
